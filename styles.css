@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
-/* table{
+table{
+	width:100%;
 	border:1px solid orange;
 	border-collapse: collapse;
 
@@ -9,22 +10,23 @@ th{
 	color:white;
 	background-color:#888888;
 }
-th, td{
+th, tr, td{
+	border:1px solid orange;
 	padding:3px 5px;
 	text-align:center;
 }
  .sub-total-text {
             text-align: right; 
 }
- */
-body {
+
+/* body {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            margin: 0;
+            margin: 0; */
 /* 	border-collapse: collapse; */
-        }
+/*         }
 
         .gallery {
             border: 1px solid orange;
@@ -44,4 +46,4 @@ body {
 
         .sub-total-text {
             text-align: right;
-        }
+        } */
