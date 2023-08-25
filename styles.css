@@ -13,3 +13,6 @@ th, td{
 	padding:3px 5px;
 	text-align:center;
 }
+ .sub-total-text {
+     text-align: right; /* Align text to the right */
+}
